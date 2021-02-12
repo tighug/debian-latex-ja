@@ -3,6 +3,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     cpanminus \
     chktex \
+    ghostscript \
     imagemagick \
     latexmk \
     texlive-extra-utils \

@@ -9,6 +9,7 @@
 - TeX Live
 - ChkTeX
 - latexmk
+- ghostscript
 - imagemagick
 
 ## Installation
